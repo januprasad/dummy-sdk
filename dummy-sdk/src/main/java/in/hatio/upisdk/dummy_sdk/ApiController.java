@@ -25,11 +25,7 @@ public class ApiController {
 
     private ApiService apiService;
     private DeviceParams deviceParams;
-    //public static String ENDPOINT = "https://upi-gateway-dev.hatio.in";
-    public static String ENDPOINT = "http://35.154.3.55:19080";
-//    public static String ENDPOINT = "http://192.168.1.128:4000";
-
-    //public static String ENDPOINT = "http://192.168.1.127:4000";
+    public static String ENDPOINT = "http://192.168.1.1:19080";
     public static String BASEURL = ENDPOINT + "/api/v1/";
 
     public static ApiController getInstance(DeviceParams d) {

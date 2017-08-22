@@ -1,16 +1,11 @@
 apply plugin: 'com.android.library'
 
 
-ext {
-    PUBLISH_GROUP_ID = 'in.hatio.upi.dummysdk'
-    PUBLISH_ARTIFACT_ID = 'dummysdk-hatio'
-    PUBLISH_VERSION = '1.0'
-}
 
 android {
     compileSdkVersion 26
-    buildToolsVersion "26.0.0"
 
+    buildToolsVersion "26.0.0"
     defaultConfig {
         minSdkVersion 15
         targetSdkVersion 26
@@ -57,6 +52,14 @@ dependencies {
     compile 'com.skyfishjy.ripplebackground:library:1.0.1'
     compile 'com.androidadvance:topsnackbar:1.1.1'
     testCompile 'junit:junit:4.12'
+}
+
+
+ext {
+    PUBLISH_GROUP_ID = 'in.hatio.upi.dummysdk'
+    PUBLISH_ARTIFACT_ID = 'dummysdk-hatio'
+    PUBLISH_VERSION = '1.0'
+
 }
 
 apply from: 'https://raw.githubusercontent.com/blundell/release-android-library/master/android-release-aar.gradle'
