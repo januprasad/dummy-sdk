@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "in.hatio.upisdk.sdk_dummy"
+        applicationId "in.hatio.dummysdk"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1

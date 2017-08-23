@@ -1,4 +1,4 @@
-package in.hatio.upisdk.dummy_sdk;
+package in.hatio.dummysdk;
 
 /**
  * Created by jenuprasad on 21/08/17.

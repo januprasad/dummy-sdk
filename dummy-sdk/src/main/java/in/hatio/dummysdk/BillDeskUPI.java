@@ -1,4 +1,4 @@
-package in.hatio.upisdk.dummy_sdk;
+package in.hatio.dummysdk;
 
 import android.app.Application;
 
