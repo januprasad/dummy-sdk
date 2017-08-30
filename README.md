@@ -1,6 +1,6 @@
 # dummy-sdk
+[ ![Download](null/packages/jenuprasad/dummy-sdk/dummy-sdk/images/download.svg?version=1.0.1) ](https://bintray.com/jenuprasad/dummy-sdk/dummy-sdk/1.0.1/link)
 dummy sdk for testing
- <a href='https://bintray.com/jenuprasad/dummy-sdk/dummy-sdk/1.0.1/link'><img src='null/packages/jenuprasad/dummy-sdk/dummy-sdk/images/download.svg?version=1.0.1'></a>
 ## Licence
 
 
